@@ -7,7 +7,9 @@ using namespace std;
 void solve(){
     int n;
     cin>>n;
-    
+    // 5 -> 3 2 -> 
+    // 6 -> 4 2 ->
+    cout<<(n-1)/2<<endl;
 }
 
 int32_t main(){
