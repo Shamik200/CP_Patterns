@@ -1,0 +1,1 @@
+{"name":"Local: CP14_Run_Length_Encoding","url":"c:\\Codes\\CF\\CP_Pattern_Solutions\\CP14_Run_Length_Encoding.cpp","tests":[{"id":1790169170905,"input":"5\n1 2 1 2 1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codes\\CF\\CP_Pattern_Solutions\\CP14_Run_Length_Encoding.cpp","group":"local","local":true}
