@@ -1,0 +1,1 @@
+{"name":"Local: CP19_Coordinate_Compression","url":"c:\\Codes\\CF\\CP_Pattern_Solutions\\CP19_Coordinate_Compression.cpp","tests":[{"id":1790320560590,"input":"5 2\n4 8 11 18 19\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codes\\CF\\CP_Pattern_Solutions\\CP19_Coordinate_Compression.cpp","group":"local","local":true}
